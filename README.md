@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zubayer-ahamed-m4&show_icons=true&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=radical">
 
 
 # Hi, this is
@@ -9,7 +9,7 @@
 [![Mail Badge](https://img.shields.io/badge/zubayerahamed.freelancer@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zubayerahamed.freelancer@gmail.com)](mailto:zubayerahamed.freelancer@gmail.com)
 
 ## My GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-ahamed-m4&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayerahamed&hide=TeX&layout=compact)
 
 # Interests
 [![](https://img.shields.io/badge/java-fb8532?style=for-the-badge&logo=java)]()
