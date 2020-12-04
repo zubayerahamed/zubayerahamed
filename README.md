@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=radical">
+<img align='right' width="10%" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=radical">
 
 
 ### Hi there, I'm Zubayer - Software Engineer 
