@@ -11,9 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun Fact: I love to do cycling
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Zubayer Spotify Playing" width="350" />](https://open.spotify.com/user/31s46m5q3w74dllpt25bjgupfkaa)
 
 ### Connect with me:
 
