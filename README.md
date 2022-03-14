@@ -18,8 +18,10 @@
 [youtube]: https://www.youtube.com/channel/UC4vVj7lKO7H4FohB3lv9dzA
 [instagram]: https://www.instagram.com/zubayer1990/
 [linkedin]: https://www.linkedin.com/in/zubayer-ahamed-55a869159/
+[facebook]: https://www.facebook.com/zubayerahamed
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
