@@ -1,7 +1,7 @@
 <img align='right' width="45%" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=radical">
 
 
-### Hi there, I'm Zubayer - Senior Software Engineer 
+### Hi there, I'm Zubayer <br/> Senior Software Engineer 
 
 [![Website](https://img.shields.io/website?label=zubayerahamed.com&url=https%3A%2F%2Fzubayerahamed.com&style=for-the-badge)](http://zubayerahamed.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zubayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubayerahamed&screen_name=zubayer1990)
