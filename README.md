@@ -9,13 +9,25 @@
 
 - 🔭 I’m currently working on [KIT POS (Restaurant POS)](https://github.com/zubayerahamed/KITPOS)
 
+- 🌱 I’m currently learning **React JS, Microservice, AWS**
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 🤝 I’m looking for help with **Accounting ERP solution**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **contact@zubayerahamed.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/zubayer-ahamed-m4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zubayer-ahamed-m4" height="30" width="40" /></a>
 <a href="https://twitter.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zubayer-ahamed-55a869159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubayer-ahamed-55a869159" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11906283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11906283" height="30" width="40" /></a>
 <a href="https://fb.com/zubayerahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayerahamed" height="30" width="40" /></a>
 <a href="https://instagram.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubayer1990" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techalap360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techalap360" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucsz11fvnmc2x3wjguej7eiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsz11fvnmc2x3wjguej7eiw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
