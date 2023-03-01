@@ -1,11 +1,28 @@
-<h1 align="center">Hi 👋, I'm a Senior Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Full-Stack Software Developer</h1>
 <h3 align="center">A passionate full stack developer from Dhaka, Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayerahamed&label=Profile%20views&color=0e75b6&style=flat" alt="zubayerahamed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayerahamed" alt="zubayerahamed" /></a> </p>
+<h3 align="left">Professional Summary: </h3>
+<p align="left">
+  <ul>
+    <li>Around 7 years of IT experience in design, development, implementation and testing of Desktop and Web based Enterprise Application using Java/J2EE Technologies.</li> 
+    <li>Experience in SDLC (Software Development Life Cycle) that includes Requirement Analysis, Design, Coding, Testing, Implementation, and Maintenance with methodologies like Agile Methodology.</li>
+    <li>Experience in design and development of web-based applications using Java, Spring MVC and Spring Boot Framework.</li>
+    <li>Expertise on Core Java Technologies like Multithreading, Collections and Exception handling mechanisms.</li>
+    <li>Expertise in client side Technologies such as HTML, CSS, JavaScript, jQuery, AJAX, JSON, Angular JS</li>
+    <li>Experience with ORM tool Hibernate involving Connection pooling, Mappings, Transaction Management, HQL (Hibernate Query Language), Mybatis</li>
+    <li>Experience in implementing SOA (Service Oriented Architecture) using Web Services both SOAP and REST</li>
+    <li>Experience with database like Oracle 10g, MySQL, Postgresql, MsSQL Server, MongoDB</li>
+    <li>Experience in creating test cases using JUnit.</li>
+    <li>Strong debugging and troubleshooting skills.</li>
+    <li>Experienced with Test Driven Development (TDD).</li>
+    <li>Report generating using Cristal Report, FOP, XSL, Birt</li>
+    <li>Experience  in Project Management Tools Like  Github, Jenkis, Trello, Jira, BitBucket</li>
+    <li>code review</li>
+    <li>Experience with integrating with third party APIs</li>
+  </ul>
+</p>
 
-<p align="left"> <a href="https://twitter.com/zubayer1990" target="blank"><img src="https://img.shields.io/twitter/follow/zubayer1990?logo=twitter&style=for-the-badge" alt="zubayer1990" /></a> </p>
 
 - 🔭 I’m currently working on [KIT POS (Restaurant POS)](https://github.com/zubayerahamed/KITPOS)
 
