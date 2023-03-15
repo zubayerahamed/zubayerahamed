@@ -67,5 +67,5 @@
 
 
 <h3 align="left">My Github Status:</h3>
-<span align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&locale=en" alt="zubayerahamed" /></span>
-<span align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" /></span>
+<span align="left">&nbsp;<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&locale=en" alt="zubayerahamed" /></span>
+<span align="left"><img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" /></span>
