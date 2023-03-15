@@ -5,53 +5,68 @@
 <h3 align="left">Professional Summary: </h3>
 <p align="left">
   <ul>
-    <li>Around 7 years of IT experience in design, development, implementation and testing of Desktop and Web based Enterprise Application using Java/J2EE Technologies.</li> 
+    <li>Around 7 years of IT experience in design, development, implementation and testing of Desktop and Web based Enterprise Application using Java/J2EE, PHP Technologies</li>
     <li>Experience in SDLC (Software Development Life Cycle) that includes Requirement Analysis, Design, Coding, Testing, Implementation, and Maintenance with methodologies like Agile Methodology.</li>
-    <li>Experience in design and development of web-based applications using Java, Spring MVC and Spring Boot Framework.</li>
+    <li>Proficient in a wide range of frameworks, including Spring MVC, Spring Boot, Spring Cloud, Laravel, and Angular, as well as various database management systems and ORM frameworks, such as Hibernate, JPA and Eloquent</li>
     <li>Expertise on Core Java Technologies like Multithreading, Collections and Exception handling mechanisms.</li>
-    <li>Expertise in client side Technologies such as HTML, CSS, JavaScript, jQuery, AJAX, JSON, Angular JS</li>
+    <li>Expertise in client side Technologies such as HTML, CSS, Bootstrap,  JavaScript, jQuery, AJAX, JSON, Angular</li>
     <li>Experience with ORM tool Hibernate involving Connection pooling, Mappings, Transaction Management, HQL (Hibernate Query Language), Mybatis</li>
-    <li>Experience in implementing SOA (Service Oriented Architecture) using Web Services both SOAP and REST</li>
+    <li>Expert in implementing SOA (Service Oriented Architecture) using Web Services both SOAP and REST</li>
+    <li>Expert to implement 3rd party API’s</li>
     <li>Experience with database like Oracle 10g, MySQL, Postgresql, MsSQL Server, MongoDB</li>
     <li>Experience in creating test cases using JUnit.</li>
     <li>Strong debugging and troubleshooting skills.</li>
     <li>Experienced with Test Driven Development (TDD).</li>
-    <li>Report generating using Cristal Report, FOP, XSL, Birt</li>
-    <li>Experience  in Project Management Tools Like  Github, Jenkis, Trello, Jira, BitBucket</li>
-    <li>code review</li>
-    <li>Experience with integrating with third party APIs</li>
+    <li>Expertise in various reporting tools, including FOP, Crystal Reports, Birt, and Jasper Reports.</li>
+    <li>Skilled in using Git, GitHub, and BitBucket for version control, and experienced in CI/CD automation using Jira and Jenkins</li>
+    <li>Experience in collaborating with cross-functional teams to ensure that product features were delivered on time and met customer needs.</li>
+    <li>Experience in worked closely with stakeholders to gather requirements and ensure that development efforts aligned with business goals.</li>
+    <li>Experience to Mentored junior developers on best practices for software development and code reviews. </li>
   </ul>
 </p>
 
 
-- 🔭 I’m currently working on [KIT POS (Restaurant POS)](https://github.com/zubayerahamed/KITPOS)
+<h3 align="left">Technical Skills: </h3>
+<p align="left">
+  <ul>
+    <li><b>Programming languags:</b> Java, PHP,  JavaScript, jQuery, HTML5, CSS3, Bootstrap, SQL, XSLT, XML</li>
+    <li><b>Frameworks:</b> Spring MVC, Spring Boot, Spring Cloud, Laravel, Angular</li>
+    <li><b>Database:</b> MsSQL, MySQL, PostgreSQL, Oracle, MongoDB</li>
+    <li><b>ORM Frameworks:</b> Hibernate, JPA, Mybatis, Eloquent</li>
+    <li><b>Version Control / Code Repository:</b> Git, GitHub, BitBucket</li>
+    <li><b>CI/CD Automation Tools:</b> GitHub, BitBucket, Jira, Jenkins</li>
+    <li><b>Reporting Tools:</b>  FOP report, Cristal Report, Birt Report, Jasper Report</li>
+  </ul>
+</p>
 
-- 🌱 I’m currently learning **React JS, Microservice, AWS**
+<h3 align="left">Activities: </h3>
+<p align="left">
+  
+- 🔭 I’m currently working on [ERP (Ecommerce Solution)](https://github.com/zubayerahamed/ERP)
+
+- 🌱 I’m currently learning **Angular JS, Microservice, AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Accounting ERP solution**
+- 🤝 I’m looking for help on **Accounting Module for ERP solution**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** **PHP**
 
 - 📫 How to reach me **contact@zubayerahamed.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/zubayer-ahamed-m4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zubayer-ahamed-m4" height="30" width="40" /></a>
-<a href="https://twitter.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zubayer-ahamed-55a869159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubayer-ahamed-55a869159" height="30" width="40" /></a>
+<a href="https://twitter.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11906283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11906283" height="30" width="40" /></a>
 <a href="https://fb.com/zubayerahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayerahamed" height="30" width="40" /></a>
 <a href="https://instagram.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucsz11fvnmc2x3wjguej7eiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsz11fvnmc2x3wjguej7eiw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&show_icons=true&locale=en&layout=compact" alt="zubayerahamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&locale=en" alt="zubayerahamed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" /></p>
+<h3 align="left">My Github Status:</h3>
+<span align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&locale=en" alt="zubayerahamed" /></span>
+<span align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" /></span>
