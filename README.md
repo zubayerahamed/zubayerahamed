@@ -61,7 +61,6 @@
 <a href="https://twitter.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11906283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11906283" height="30" width="40" /></a>
 <a href="https://fb.com/zubayerahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayerahamed" height="30" width="40" /></a>
-<a href="https://instagram.com/zubayer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubayer1990" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucsz11fvnmc2x3wjguej7eiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsz11fvnmc2x3wjguej7eiw" height="30" width="40" /></a>
 </p>
 
