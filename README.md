@@ -5,22 +5,22 @@
 <h3 align="left">Professional Summary: </h3>
 <p align="left">
   <ul>
-    <li>Around 7 years of IT experience in design, development, implementation and testing of Desktop and Web based Enterprise Application using Java/J2EE, PHP Technologies</li>
+    <li>Around 8 years of IT experience in design, development, implementation, and testing of Desktop and Web based Enterprise Applications using Java/J2EE, PHP Technologies</li>
     <li>Experience in SDLC (Software Development Life Cycle) that includes Requirement Analysis, Design, Coding, Testing, Implementation, and Maintenance with methodologies like Agile Methodology.</li>
     <li>Proficient in a wide range of frameworks, including Spring MVC, Spring Boot, Spring Cloud, Laravel, and Angular, as well as various database management systems and ORM frameworks, such as Hibernate, JPA and Eloquent</li>
-    <li>Expertise on Core Java Technologies like Multithreading, Collections and Exception handling mechanisms.</li>
+    <li>Expertise on Core Java Technologies like Multithreading, Collections and Exception Handling Mechanisms.</li>
     <li>Expertise in client side Technologies such as HTML, CSS, Bootstrap,  JavaScript, jQuery, AJAX, JSON, Angular</li>
     <li>Experience with ORM tool Hibernate involving Connection pooling, Mappings, Transaction Management, HQL (Hibernate Query Language), Mybatis</li>
     <li>Expert in implementing SOA (Service Oriented Architecture) using Web Services both SOAP and REST</li>
     <li>Expert to implement 3rd party API’s</li>
-    <li>Experience with database like Oracle 10g, MySQL, Postgresql, MsSQL Server, MongoDB</li>
+    <li>Experience with databases like Oracle 10g, MySQL, Postgresql, MsSQL Server, MongoDB</li>
     <li>Experience in creating test cases using JUnit.</li>
     <li>Strong debugging and troubleshooting skills.</li>
     <li>Experienced with Test Driven Development (TDD).</li>
     <li>Expertise in various reporting tools, including FOP, Crystal Reports, Birt, and Jasper Reports.</li>
     <li>Skilled in using Git, GitHub, and BitBucket for version control, and experienced in CI/CD automation using Jira and Jenkins</li>
     <li>Experience in collaborating with cross-functional teams to ensure that product features were delivered on time and met customer needs.</li>
-    <li>Experience in worked closely with stakeholders to gather requirements and ensure that development efforts aligned with business goals.</li>
+    <li>Experience in working closely with stakeholders to gather requirements and ensure that development efforts aligned with business goals.</li>
     <li>Experience to Mentored junior developers on best practices for software development and code reviews. </li>
   </ul>
 </p>
@@ -29,7 +29,7 @@
 <h3 align="left">Technical Skills: </h3>
 <p align="left">
   <ul>
-    <li><b>Programming languags:</b> Java, PHP,  JavaScript, jQuery, HTML5, CSS3, Bootstrap, SQL, XSLT, XML</li>
+    <li><b>Programming languages:</b> Java, PHP,  JavaScript, jQuery, HTML5, CSS3, Bootstrap, SQL, XSLT, XML</li>
     <li><b>Frameworks:</b> Spring MVC, Spring Boot, Spring Cloud, Laravel, Angular</li>
     <li><b>Database:</b> MsSQL, MySQL, PostgreSQL, Oracle, MongoDB</li>
     <li><b>ORM Frameworks:</b> Hibernate, JPA, Mybatis, Eloquent</li>
@@ -42,7 +42,7 @@
 <h3 align="left">Activities: </h3>
 <p align="left">
   
-- 🔭 I’m currently working on [ERP (Ecommerce Solution)](https://github.com/zubayerahamed/ERP)
+- 🔭 I’m currently working on [ERP (E-commerce Solution)](https://github.com/zubayerahamed/ERP)
 
 - 🌱 I’m currently learning **Angular JS, Microservice, AWS**
 
