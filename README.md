@@ -73,14 +73,21 @@
 
 <h3 align="left">📊 My GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default" alt="zubayerahamed" />
-</p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&show_icons=true&locale=en&layout=compact" alt="zubayerahamed" />
-</p>
 
-<p align="left">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default" alt="zubayerahamed"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&show_icons=true&locale=en&layout=compact" alt="zubayerahamed"/>
+    </td>
+  </tr>
+</table>
+
+
+
