@@ -78,5 +78,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed" alt="zubayerahamed" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed](https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed)" alt="zubayerahamed" />
 </p>
