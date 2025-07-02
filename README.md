@@ -77,6 +77,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default" alt="zubayerahamed" />
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&show_icons=true&locale=en&layout=compact" alt="zubayerahamed" />
+</p>
+
 <p align="left">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed](https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed)" alt="zubayerahamed" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed" />
 </p>
