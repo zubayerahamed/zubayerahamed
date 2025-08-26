@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zubayer Ahamed</h1>
 <h3 align="center">A passionate Full-Stack Software Developer from Dhaka, Bangladesh</h3>
+<h5 align="center">zubayerahamed1990@gmail.com, +8801748562164</h5>
 
 ---
 
