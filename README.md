@@ -3,6 +3,18 @@
 <h5 align="center">zubayerahamed1990@gmail.com, +8801748562164</h5>
 
 ---
+<h3 align="left">👨‍💻 About Me</h3>
+
+Hi there! I'm <b>Zubayer Ahamed</b>, a passionate <b>Full Stack Software Developer</b> who loves building scalable and performant web applications.
+My tech stack includes <b>Java, Spring Boot, Laravel, jQuery, APIs, RDBMS, Bootstrap</b> and <b>System Architecture</b>.
+
+I actively build <b>ERP, Enterprise Applications, Web Applications, Desktop Applications, APIs</b> using Spring Boot & Laravel for both product and consumer-facing projects.
+
+Currently, <b>I'm open to work and new opportunities</b> (remote).
+
+When I’m not coding, I enjoy <b>watching movies, listening to music, and riding my motorcycle</b>.
+
+---
 
 <h3 align="left">👨‍💻 Professional Summary:</h3>
 
