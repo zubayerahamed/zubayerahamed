@@ -1,103 +1,115 @@
-<h1 align="center">Hi 👋, I'm Zubayer Ahamed</h1>
-<h3 align="center">A passionate Full-Stack Software Developer from Dhaka, Bangladesh</h3>
-<h5 align="center">zubayerahamed1990@gmail.com, +8801748562164</h5>
-
----
-<h3 align="left">👨‍💻 About Me</h3>
-
-Hi there! I'm <b>Zubayer Ahamed</b>, a passionate <b>Full Stack Software Developer</b> who loves building scalable and performant web applications.
-My tech stack includes <b>Java, Spring Boot, Laravel, jQuery, APIs, RDBMS, Bootstrap</b> and <b>System Architecture</b>.
-
-I actively build <b>ERP, Enterprise Applications, Web Applications, Desktop Applications, APIs</b> using Spring Boot & Laravel for both product and consumer-facing projects.
-
-Currently, <b>I'm open to work and new opportunities</b> (remote).
-
-When I’m not coding, I enjoy <b>watching movies, listening to music, and riding my motorcycle</b>.
-
----
-
-<h3 align="left">👨‍💻 Professional Summary:</h3>
-
-<ul>
-  <li>✅ 8+ years of experience in design, development, implementation, and testing of Desktop and Web-based Enterprise Applications using Java, Spring Boot, PHP, Laravel, Angular, and related technologies.</li>
-  <li>✅ Solid understanding of SDLC, Agile methodologies, and best software engineering practices.</li>
-  <li>✅ Proficient in backend frameworks including Spring Boot, Spring MVC, Spring Cloud, Laravel, and MyBatis.</li>
-  <li>✅ Strong grasp on frontend technologies like HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Angular.</li>
-  <li>✅ Skilled in building RESTful and SOAP web services, system integration, and 3rd party API implementation.</li>
-  <li>✅ Experienced in multi-threading, collection framework, and exception handling in Core Java.</li>
-  <li>✅ Worked with relational and NoSQL databases including MySQL, PostgreSQL, Oracle, MSSQL Server, MongoDB.</li>
-  <li>✅ Hands-on experience with ORM tools like Hibernate, JPA, Eloquent, and MyBatis.</li>
-  <li>✅ Strong experience in unit testing using JUnit and practicing Test Driven Development (TDD).</li>
-  <li>✅ Skilled in using reporting tools such as JasperReports, BIRT, Crystal Reports, and Apache FOP.</li>
-  <li>✅ Experienced with Git, GitHub, BitBucket, Jenkins, and Jira for version control and CI/CD pipelines.</li>
-  <li>✅ Proficient in requirement gathering, stakeholder communication, mentoring junior developers, and leading technical projects.</li>
-</ul>
-
----
-
-<h3 align="left">🛠️ Technical Skills:</h3>
-
-<ul>
-  <li><b>Languages:</b> Java, PHP, JavaScript, SQL, HTML5, CSS3, XML, XSLT</li>
-  <li><b>Frameworks:</b> Spring Boot, Spring MVC, Spring Cloud, Laravel, Angular</li>
-  <li><b>Frontend:</b> HTML5, CSS3, Bootstrap, JavaScript, jQuery, Angular</li>
-  <li><b>Databases:</b> MySQL, PostgreSQL, Oracle, MSSQL Server, MongoDB</li>
-  <li><b>ORM:</b> Hibernate, JPA, Eloquent, MyBatis</li>
-  <li><b>Version Control:</b> Git, GitHub, Bitbucket</li>
-  <li><b>CI/CD Tools:</b> Jenkins, GitHub Actions, Bitbucket Pipelines, Jira</li>
-  <li><b>Reporting Tools:</b> JasperReports, Crystal Reports, BIRT, Apache FOP</li>
-</ul>
-
----
-
-<h3 align="left">🚀 Activities & Interests:</h3>
-
-<ul>
-  <li>🔭 Currently building a powerful ERP & E-commerce platform for businesses</li>
-  <li>🌱 Exploring Microservices Architecture, AWS Cloud, and Angular 19+</li>
-  <li>🤝 Open to collaboration on large-scale, open-source enterprise software</li>
-  <li>📊 Looking for advice or contributions on accounting & finance modules</li>
-  <li>💬 Ask me about Java, Spring Boot, Laravel, or software architecture</li>
-  <li>📫 Reach out via: <a href="mailto:contact@zubayerahamed.com">contact@zubayerahamed.com</a></li>
-</ul>
-
----
-
-<h3 align="left">🌐 Connect With Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/zubayer-ahamed-55a869159" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/zubayer1990" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/11906283" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/zubayerahamed" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+<h1 align="center">Zubayer Ahamed</h1>
+<h3 align="center">Full-Stack Software Developer | Enterprise Systems Architect | Java & Spring Specialist</h3>
+<p align="center">
+Dhaka, Bangladesh • Open to Remote Opportunities <br/>
+📧 contact@zubayerahamed.com
 </p>
 
 ---
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+## 🚀 About Me
 
+I design and build **scalable, high-performance enterprise systems** that solve real business problems.
 
+With 9+ years of industry experience, I specialize in architecting backend-heavy applications using:
+
+- **Java & Spring Boot Ecosystem**
+- **Laravel & PHP-based Systems**
+- **Relational Database Design & Optimization**
+- **System Architecture & Clean Code Principles**
+
+I focus on building **ERP systems, POS platforms, accounting software, and enterprise-grade web applications** that are stable, maintainable, and production-ready.
+
+I don’t just write code — I design systems that scale.
+
+---
+
+## 🧠 Core Expertise
+
+### 🔹 Backend Engineering
+- Spring Boot, Spring MVC, Spring Cloud
+- Laravel & RESTful API Development
+- Microservices Architecture
+- Authentication & Security (JWT, Role-Based Access)
+- Multithreading & Performance Optimization
+
+### 🔹 Database Engineering
+- MySQL, PostgreSQL, MSSQL, Oracle, MongoDB
+- Query Optimization & Indexing
+- Data Modeling & Schema Design
+- ORM: Hibernate, JPA, MyBatis, Eloquent
+
+### 🔹 Frontend & Integration
+- Angular
+- Bootstrap, JavaScript, jQuery
+- REST & SOAP Web Services
+- Third-Party API Integration
+
+### 🔹 DevOps & Tooling
+- Git, GitHub, Bitbucket
+- Jenkins, CI/CD Pipelines
+- Jira & Agile Workflow
+- JasperReports, Crystal Reports, BIRT
+
+---
+
+## 🏗️ Systems I’ve Built
+
+- Multi-branch Restaurant & Food Court POS with ERP Integration  
+- Inventory & Accounting Systems  
+- Enterprise Reporting Portals  
+- Custom ERP Solutions  
+- E-commerce Platforms  
+
+These systems handle real users, real transactions, and real business constraints.
+
+---
+
+## 🎯 Current Focus
+
+- Microservices Architecture
+- Scalable ERP Systems
+- Angular 19+ with Spring Boot
+- Cloud-Ready Application Design
+- Performance & Data-Intensive Reporting Systems
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+
+- Remote Senior Backend Roles
+- Enterprise System Architecture Projects
+- Complex ERP or Accounting Platforms
+- High-scale Reporting & Data Systems
+
+If you're building something serious — let's talk.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/zubayer-ahamed-55a869159" target="blank">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/11906283" target="blank">StackOverflow</a> •
+  <a href="https://twitter.com/zubayer1990" target="blank">Twitter</a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default" alt="zubayerahamed"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="zubayerahamed"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&show_icons=true&locale=en&layout=compact" alt="zubayerahamed"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&layout=compact"/>
     </td>
   </tr>
 </table>
-
-
-
