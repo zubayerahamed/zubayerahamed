@@ -1,115 +1,295 @@
-<h1 align="center">Zubayer Ahamed</h1>
-<h3 align="center">Full-Stack Software Developer | Enterprise Systems Architect | Java & Spring Specialist</h3>
+<h1 align="center">Hi, I'm Zubayer Ahamed 👋</h1>
+
+<h3 align="center">
+Senior Software Engineer • Full-Stack Developer • Enterprise Systems Architect
+</h3>
+
 <p align="center">
-Dhaka, Bangladesh • Open to Remote Opportunities <br/>
-📧 contact@zubayerahamed.com
+Specializing in Java, Spring Boot, scalable backend systems, ERP & business-critical applications
+</p>
+
+<p align="center">
+📍 Dhaka, Bangladesh   •   🌍 Open to Remote Opportunities   •   📧 [contact@zubayerahamed.com](mailto:contact@zubayerahamed.com)
+</p>
+
+<p align="center">
+  <a href="https://zubayerahamed.com/">Portfolio</a> •
+  <a href="https://linkedin.com/in/zubayer-ahamed-55a869159">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/11906283">Stack Overflow</a> •
+  <a href="https://twitter.com/zubayer1990">Twitter / X</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I design and build **scalable, high-performance enterprise systems** that solve real business problems.
+I'm a **Senior Software Engineer with 9+ years of professional experience** designing, developing, and maintaining production-grade software systems.
 
-With 9+ years of industry experience, I specialize in architecting backend-heavy applications using:
+My core strength is **backend and enterprise application engineering**, particularly with **Java and the Spring ecosystem**. I also work across modern frontend, mobile, database, reporting, and integration technologies to deliver complete business solutions.
 
-- **Java & Spring Boot Ecosystem**
-- **Laravel & PHP-based Systems**
-- **Relational Database Design & Optimization**
-- **System Architecture & Clean Code Principles**
+Over the years, I have worked on systems including **ERP platforms, restaurant and food-court POS systems, inventory and accounting solutions, reporting platforms, e-commerce applications, and other enterprise business software**.
 
-I focus on building **ERP systems, POS platforms, accounting software, and enterprise-grade web applications** that are stable, maintainable, and production-ready.
+I care about more than making software work. I focus on:
 
-I don’t just write code — I design systems that scale.
+* Clean and maintainable architecture
+* Performance and scalability
+* Reliable data modeling
+* Secure API design
+* Long-term maintainability
+* Real-world business requirements
 
----
-
-## 🧠 Core Expertise
-
-### 🔹 Backend Engineering
-- Spring Boot, Spring MVC, Spring Cloud
-- Laravel & RESTful API Development
-- Microservices Architecture
-- Authentication & Security (JWT, Role-Based Access)
-- Multithreading & Performance Optimization
-
-### 🔹 Database Engineering
-- MySQL, PostgreSQL, MSSQL, Oracle, MongoDB
-- Query Optimization & Indexing
-- Data Modeling & Schema Design
-- ORM: Hibernate, JPA, MyBatis, Eloquent
-
-### 🔹 Frontend & Integration
-- Angular
-- Bootstrap, JavaScript, jQuery
-- REST & SOAP Web Services
-- Third-Party API Integration
-
-### 🔹 DevOps & Tooling
-- Git, GitHub, Bitbucket
-- Jenkins, CI/CD Pipelines
-- Jira & Agile Workflow
-- JasperReports, Crystal Reports, BIRT
+> **I don't just write code — I design systems that solve business problems and remain maintainable as they grow.**
 
 ---
 
-## 🏗️ Systems I’ve Built
+## 🧠 Technical Expertise
 
-- Multi-branch Restaurant & Food Court POS with ERP Integration  
-- Inventory & Accounting Systems  
-- Enterprise Reporting Portals  
-- Custom ERP Solutions  
-- E-commerce Platforms  
+### ☕ Backend Engineering
 
-These systems handle real users, real transactions, and real business constraints.
+* **Java**
+* **Spring Boot, Spring MVC & Spring Cloud**
+* **Laravel / PHP**
+* RESTful API Design & Development
+* Microservices Architecture
+* JWT Authentication & Role-Based Authorization
+* Multithreading & Concurrent Processing
+* Performance Optimization
+* Enterprise Application Architecture
+
+### 🗄️ Database Engineering
+
+* **PostgreSQL**
+* **Microsoft SQL Server**
+* **MySQL**
+* **Oracle Database**
+* **MongoDB**
+* Database Modeling & Schema Design
+* Query Optimization & Indexing
+* Transaction Management
+* Data Synchronization
+* Hibernate / JPA
+* MyBatis
+* Laravel Eloquent
+
+### 🌐 Frontend & Mobile
+
+* **Angular**
+* **Ionic**
+* TypeScript
+* JavaScript
+* Bootstrap
+* HTML / CSS
+* jQuery
+* Progressive Web Applications
+
+### 🔗 APIs & Integration
+
+* REST APIs
+* SOAP Web Services
+* Third-Party API Integration
+* Payment Gateway Integration
+* Authentication & Authorization
+* Enterprise System Integration
+
+### ⚙️ DevOps & Engineering Tools
+
+* Git
+* GitHub
+* Bitbucket
+* Jenkins
+* CI/CD Pipelines
+* Maven
+* Jira
+* Agile / Scrum
+* Docker
+
+### 📊 Enterprise Reporting
+
+* JasperReports
+* Crystal Reports
+* Apache FOP
+* BIRT
 
 ---
 
-## 🎯 Current Focus
+## 🏗️ Systems & Solutions I've Worked On
 
-- Microservices Architecture
-- Scalable ERP Systems
-- Angular 19+ with Spring Boot
-- Cloud-Ready Application Design
-- Performance & Data-Intensive Reporting Systems
+My experience is centered around **real-world, transaction-heavy business applications**.
+
+### 🍽️ Restaurant & Food-Court POS
+
+Designed and developed POS solutions involving:
+
+* Offline-first operation
+* Multi-terminal environments
+* Multi-branch architecture
+* Kitchen Order Tickets (KOT)
+* Waiter & kitchen workflows
+* Inventory integration
+* ERP integration
+* Accounting integration
+* Data synchronization
+* Enterprise reporting
+
+### 🏢 ERP & Business Applications
+
+Experience designing modules and workflows around:
+
+* Sales
+* Procurement
+* Inventory
+* Accounting
+* Warehousing
+* Manufacturing
+* Customer management
+* Reporting
+* Multi-branch operations
+
+### 📦 Inventory & Accounting Systems
+
+Built business systems involving:
+
+* Stock movement
+* Purchasing
+* Sales
+* Costing
+* Account balances
+* Financial transactions
+* Business reporting
+* Data synchronization
+
+### 📊 Enterprise Reporting Platforms
+
+Experience building reporting solutions involving:
+
+* Large datasets
+* Dynamic reports
+* PDF generation
+* JasperReports
+* Crystal Reports
+* Apache FOP
+* BIRT
+* Server-side report processing
+
+### 🛒 E-Commerce Platforms
+
+Experience with:
+
+* Product catalogs
+* Inventory
+* Orders
+* Payments
+* Customer management
+* Multi-vendor architecture
+* Business reporting
+* Backend administration
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🏛️ Engineering Principles
 
-I’m open to:
+When designing software, I prioritize:
 
-- Remote Senior Backend Roles
-- Enterprise System Architecture Projects
-- Complex ERP or Accounting Platforms
-- High-scale Reporting & Data Systems
+```text
+Business Requirements
+        ↓
+Domain Modeling
+        ↓
+Clean Architecture
+        ↓
+Reliable APIs
+        ↓
+Efficient Data Layer
+        ↓
+Security & Observability
+        ↓
+Performance & Scalability
+        ↓
+Maintainable Production System
+```
 
-If you're building something serious — let's talk.
+I prefer engineering decisions that optimize for **long-term maintainability rather than short-term convenience**.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Engineering Focus
 
-<p align="left">
-  <a href="https://linkedin.com/in/zubayer-ahamed-55a869159" target="blank">LinkedIn</a> •
-  <a href="https://stackoverflow.com/users/11906283" target="blank">StackOverflow</a> •
-  <a href="https://twitter.com/zubayer1990" target="blank">Twitter</a>
-</p>
+I'm currently deepening my expertise in:
+
+* Distributed Systems
+* Microservices Architecture
+* Advanced System Design
+* Event-Driven Architecture
+* Kafka & Messaging
+* Redis & Distributed Caching
+* Docker & Containerization
+* Cloud Architecture
+* AWS
+* High-Performance Spring Boot Applications
+* Scalable ERP Architecture
+* Large-Scale Data Processing
+* Offline-First & Data Synchronization Architecture
+
+---
+
+## 🚀 What I'm Interested In
+
+I'm particularly interested in opportunities involving:
+
+* Senior Java / Spring Boot Engineering
+* Backend Architecture
+* Enterprise Software Development
+* ERP & Accounting Platforms
+* SaaS Architecture
+* Distributed Systems
+* High-Performance APIs
+* Complex Database Systems
+* Data-Intensive Reporting Platforms
+* Technical Leadership
+
+I'm open to **remote opportunities and challenging engineering projects** where architecture, scalability, reliability, and business understanding matter.
 
 ---
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&theme=default"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&layout=compact"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true"
+    alt="Zubayer Ahamed's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed"
+    alt="Zubayer Ahamed's GitHub Streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayerahamed&layout=compact"
+    alt="Most Used Languages"
+    height="165"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software architecture, Java, Spring Boot, ERP systems, scalable backend engineering, and challenging business problems**.
+
+If you're building a serious product and need an engineer who understands both **technical architecture and business requirements**, I'd be happy to connect.
+
+<p align="center">
+  <a href="https://zubayerahamed.com/"><b>🌐 Portfolio</b></a>
+    •  
+  <a href="https://linkedin.com/in/zubayer-ahamed-55a869159"><b>LinkedIn</b></a>
+    •  
+  <a href="https://stackoverflow.com/users/11906283"><b>Stack Overflow</b></a>
+</p>
+
+<p align="center">
+  <i>Building reliable software for real-world business problems.</i>
+</p>
